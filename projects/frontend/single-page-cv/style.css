@@ -1,0 +1,57 @@
+body {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .page {
+    border: 1px solid #868686;
+    border-radius: 5px;
+    padding-left: 60px;
+  }
+  
+  .line {
+    margin-top: 35px;
+    background: #000;
+    width: 500px;
+    border: 1.5px solid black;
+  }
+  
+  .job-description,
+  .skills h4,
+  .Education h4,
+  .Experience h4 {
+    font-weight: bold;
+    color: rgba(64, 210, 24, 0.93);
+  }
+  
+  .address p {
+    line-height: 5px;
+    font-weight: 500;
+  }
+  
+  .Education .school-name,
+  .Experience .company-name {
+    font-weight: bold;
+    color: rgba(58, 202, 254, 0.93);
+    line-height: 0px;
+  }
+  
+  .Education .date,
+  .Experience .date {
+    line-height: 0%;
+  }
+  
+  .area-of-interest p {
+    line-height: 0%;
+  }
+  
+  .area-of-interest h4 {
+    line-height: 0%;
+  }
+  
