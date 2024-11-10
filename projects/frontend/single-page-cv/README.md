@@ -57,9 +57,10 @@ This project provides a solid understanding of creating a single-page CV using H
 **Project URL:** [CV Project on Roadmap.sh](https://roadmap.sh/projects/single-page-cv)
 
 
-# The Result
+# Result
 
-**Codepen:** https://codepen.io/lehungio/pen/PoMXwXy
+- **Codepen:** https://codepen.io/lehungio/pen/PoMXwXy
+- **Solutions:** [Roadmap.sh](https://roadmap.sh/projects/single-page-cv/solutions)
 
 ![Code](./media/single-page-cv.png)
 
