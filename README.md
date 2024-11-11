@@ -6,6 +6,7 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 
 - [Single Page CV](https://lehungio.github.io/hot-roadmap/projects/frontend/single-page-cv/index.html) - [source](https://roadmap.sh/projects/single-page-cv)
 - [Basic HTML Website](https://lehungio.github.io/hot-roadmap/projects/frontend/basic-html-website/index.html) - [source](https://roadmap.sh/projects/basic-html-website)
+
 <!-- 
 - [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
 - [Changelog Component](https://roadmap.sh/projects/changelog-component)
