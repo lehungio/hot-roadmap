@@ -17,7 +17,7 @@
 - [Temperature Converter](https://roadmap.sh/projects/temperature-converter) 
 -->
 
-]# Hot Roadmap Projects
+# Hot Roadmap Projects
 
 This repository contains front-end projects built following the [roadmap.sh](https://roadmap.sh/) front-end developer path.
 
