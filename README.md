@@ -1,12 +1,3 @@
-# Hot Roadmap Projects
-
-This repository contains front-end projects built following the [roadmap.sh](https://roadmap.sh/) front-end developer path.
-
-## Projects List
-
-- [Single Page CV](https://lehungio.github.io/hot-roadmap/projects/frontend/single-page-cv/index.html) - [source](https://roadmap.sh/projects/single-page-cv)
-- [Basic HTML Website](https://lehungio.github.io/hot-roadmap/projects/frontend/basic-html-website/index.html) - [source](https://roadmap.sh/projects/basic-html-website)
-
 <!-- 
 - [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
 - [Changelog Component](https://roadmap.sh/projects/changelog-component)
@@ -25,6 +16,15 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 - [Reddit Client](https://roadmap.sh/projects/reddit-client)
 - [Temperature Converter](https://roadmap.sh/projects/temperature-converter) 
 -->
+
+]# Hot Roadmap Projects
+
+This repository contains front-end projects built following the [roadmap.sh](https://roadmap.sh/) front-end developer path.
+
+## Projects List
+
+- [Single Page CV](https://lehungio.github.io/hot-roadmap/projects/frontend/single-page-cv/index.html) - [source](https://roadmap.sh/projects/single-page-cv)
+- [Basic HTML Website](https://lehungio.github.io/hot-roadmap/projects/frontend/basic-html-website/index.html) - [source](https://roadmap.sh/projects/basic-html-website)
 
 ## Project Previews
 
