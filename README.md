@@ -4,9 +4,10 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 
 ## Projects List
 
-- [Single Page CV](https://roadmap.sh/projects/single-page-cv)
-- [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
-<!-- - [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
+- [Single Page CV](https://lehungio.github.io/hot-roadmap/projects/frontend/single-page-cv/index.html) - [source](https://roadmap.sh/projects/single-page-cv)
+- [Basic HTML Website](https://lehungio.github.io/hot-roadmap/projects/frontend/basic-html-website/index.html) - source](https://roadmap.sh/projects/basic-html-website)
+<!-- 
+- [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
 - [Changelog Component](https://roadmap.sh/projects/changelog-component)
 - [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards)
 - [Datepicker UI](https://roadmap.sh/projects/datepicker-ui)
@@ -21,7 +22,8 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 - [Task Tracker](https://roadmap.sh/projects/task-tracker-js)
 - [GitHub Random Repo](https://roadmap.sh/projects/github-random-repo)
 - [Reddit Client](https://roadmap.sh/projects/reddit-client)
-- [Temperature Converter](https://roadmap.sh/projects/temperature-converter) -->
+- [Temperature Converter](https://roadmap.sh/projects/temperature-converter) 
+-->
 
 ## Project Previews
 
@@ -31,7 +33,7 @@ Click any of the images below to view the README and live demo for each project.
   <a href='/projects/frontend/single-page-cv/'>
     <img width="48%" src="./projects/frontend/single-page-cv/media/single-page-cv.png" alt="Single Page CV" />
   </a>
-  <!-- <a href='/Frontend Projects/02-basic-html-website/'>
+  <a href='/Frontend Projects/02-basic-html-website/'>
     <img width="48%" src="./assets/images/basic-html-website.png" alt="Basic HTML Website" />
-  </a> -->
+  </a>  
 </p>
